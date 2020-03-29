@@ -71,7 +71,7 @@ properties as above.
 ```javascript
 // same intervals for latitude and longitude
 zoomInterval: [
-  {start: 2, end: 2, interval: 40},
+  {start: 0, end: 2, interval: 40},
   {start: 3, end: 3, interval: 20},
   {start: 4, end: 4, interval: 10},
   {start: 5, end: 7, interval: 5},
