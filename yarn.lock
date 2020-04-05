@@ -26,11 +26,6 @@ hoist-non-react-statics@^3.3.2:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
-leaflet-graticule@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/leaflet-graticule/-/leaflet-graticule-0.0.1.tgz#44b3ed93328d6ec075723f8804dd3c4a72bb219c"
-  integrity sha512-nyOHBwCSOtz3kbfoDkmRcHkZoe6UjNuJn62B9P31jvvN1iYQy3henF3G+CrBDZ3duDucPThzowJNg/adoo/JIA==
-
 leaflet@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.6.0.tgz#aecbb044b949ec29469eeb31c77a88e2f448f308"

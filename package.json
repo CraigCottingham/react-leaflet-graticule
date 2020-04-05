@@ -1,15 +1,29 @@
 {
   "name": "react-leaflet-graticule",
   "version": "0.1.0",
-  "description": "React wrapper around leaflet.latlng-graticule for react-leaflet",
+  "description": "Display a graticule on a react-leaflet map",
   "main": "index.js",
-  "repository": "git@github.com:CraigCottingham/react-leaflet-graticule.git",
-  "author": "Craig S. Cottingham <craig@cottingham.net>",
-  "license": "MIT",
-  "dependencies": {
-    "leaflet-graticule": "^0.0.1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CraigCottingham/react-leaflet-graticule.git",
   },
-  "devDependencies": {
+  "keywords": [
+    "react",
+    "react-component",
+    "leaflet",
+    "react-leaflet",
+    "graticule",
+    "map",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Craig S. Cottingham <craig@cottingham.net> (https://github.com/CraigCottingham)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CraigCottingham/react-leaflet-graticule/issues"
+  },
+  "homepage": "https://github.com/CraigCottingham/react-leaflet-graticule",
+  "dependencies": {
     "leaflet": "^1.6.0",
     "react": "^16.13.1",
     "react-leaflet": "^2.6.3"
